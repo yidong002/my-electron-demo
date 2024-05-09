@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@electron-forge/cli": "^7.4.0",
+    "electron": "^30.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
